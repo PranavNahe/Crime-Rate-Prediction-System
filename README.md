@@ -2,6 +2,8 @@
 Developed a create crime rate prediction model using ML algorithms to predict the crime rate and analyse the crime rate based on previous records. Concepts of Random Forest Classifier and Gradient Boosting Classifier were used to develop the model
 
 Dataset is taken from kaggle.com which had 29 attributes out of which we used 9-10 attributes for training the model.
+
+
 Link of Dataset:-
 https://drive.google.com/file/d/1RTxOt1Q6fbo87xVYoiMVFZBSKp_5olph/view?usp=sharing 
 
